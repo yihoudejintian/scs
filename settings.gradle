@@ -1,2 +1,5 @@
 rootProject.name = 'scs'
+include 'scs-server'
+include 'scs-common'
+include 'scs-gateway'
 
